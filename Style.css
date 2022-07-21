@@ -241,6 +241,7 @@ footer p {
   .main-nav a{
     display: block;
     width: 100%;
+    text-align: center;
 }
 }
 
